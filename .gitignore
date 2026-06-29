@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# TensorFlow / Keras models
+*.keras
+*.h5
+*.hdf5
+
+# Large model directory
+models/
+
+# Dataset folders
+dataset/
+Training/
+Testing/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,7 @@
+streamlit>=1.36
+tensorflow>=2.16
+numpy>=1.26
+pandas>=2.2
+Pillow>=10.3
+scikit-learn>=1.5
+huggingface_hub
